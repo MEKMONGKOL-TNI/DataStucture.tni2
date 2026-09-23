@@ -1,1 +1,0 @@
-INDEX VERSION 1.134+C:\Users\2613110218\Desktop\2613110218\DataStucture.tni\LabSheet08\BinaryTree\.metadata\.plugins\org.eclipse.jdt.core
